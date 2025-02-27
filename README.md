@@ -13,6 +13,6 @@ The architecture follows a modular design, integrating **Apache Airflow** for wo
 
 ### Prerequisites
 - Python 3.8+
-- Docker & Docker Compose (for running Airflow locally)
+- Docker & Docker Compose 
 - Snowflake account
 - AWS account with configured credentials
