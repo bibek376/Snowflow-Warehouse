@@ -10,3 +10,9 @@ The architecture follows a modular design, integrating **Apache Airflow** for wo
 - **Snowflake** – Cloud-based data warehouse  
 - **AWS (S3, Lambda, Glue, etc.)** – Data storage, processing, and automation  
 - **ETL Pipelines** – Ingest, transform, and load structured and semi-structured data  
+
+### Prerequisites
+- Python 3.8+
+- Docker & Docker Compose (for running Airflow locally)
+- Snowflake account
+- AWS account with configured credentials
