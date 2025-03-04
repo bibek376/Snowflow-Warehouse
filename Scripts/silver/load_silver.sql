@@ -48,3 +48,4 @@ SELECT
 FROM bronze.crm_prd_info;
 
 
+--sample
